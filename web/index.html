@@ -1,0 +1,135 @@
+<!-- web/index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Telegram Channel Viewer</title>
+    <style>
+      body {
+        font-family: system-ui, Arial;
+        padding: 1rem;
+        max-width: 800px;
+        margin: auto;
+      }
+      .post {
+        border: 1px solid #ddd;
+        padding: 0.75rem;
+        margin-bottom: 0.75rem;
+        border-radius: 8px;
+      }
+      .media {
+        max-width: 100%;
+        height: auto;
+        margin-top: 0.5rem;
+      }
+      .meta {
+        color: #666;
+        font-size: 0.9rem;
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Channel: <span id="channel-name"></span></h1>
+    <div>
+      <input id="channel" placeholder="channel username (e.g. ticva)" />
+      <button id="load">Load posts</button>
+    </div>
+    <div id="posts"></div>
+
+    <script>
+      const channelSpan = document.getElementById("channel-name");
+      const loadBtn = document.getElementById("load");
+      const input = document.getElementById("channel");
+      const postsDiv = document.getElementById("posts");
+
+      let ws; // WebSocket connection
+
+      function renderPost(p) {
+        const el = document.createElement("div");
+        el.className = "post";
+        const meta = document.createElement("div");
+        meta.className = "meta";
+        meta.textContent = `message_id: ${p.message_id} — posted_at: ${p.posted_at}`;
+        el.appendChild(meta);
+        if (p.text) {
+          const t = document.createElement("div");
+          t.textContent = p.text;
+          el.appendChild(t);
+        }
+        if (p.media_url) {
+          const img = document.createElement("img");
+          img.className = "media";
+          img.src = p.media_url;
+          el.appendChild(img);
+        }
+        return el;
+      }
+
+      async function loadChannel(channel) {
+        channelSpan.textContent = channel;
+        postsDiv.innerHTML = "Loading...";
+
+        // Close existing WebSocket connection if any
+        if (ws) {
+          ws.close();
+        }
+
+        // Establish new WebSocket connection
+        const ws_protocol =
+          window.location.protocol === "https:" ? "wss://" : "ws://";
+        ws = new WebSocket(
+          `${ws_protocol}${window.location.host}/ws/${channel}`
+        );
+
+        ws.onopen = (event) => {
+          console.log("WebSocket connected:", event);
+        };
+
+        ws.onmessage = (event) => {
+          console.log("WebSocket message received:", event.data);
+          const newPost = JSON.parse(event.data);
+          const postElement = renderPost(newPost);
+          postsDiv.prepend(postElement); // Add new posts to the top
+        };
+
+        ws.onclose = (event) => {
+          console.log("WebSocket disconnected:", event);
+        };
+
+        ws.onerror = (event) => {
+          console.error("WebSocket error:", event);
+        };
+
+        try {
+          const resp = await fetch(`/api/posts/${channel}`);
+          if (!resp.ok) {
+            postsDiv.innerHTML = "Error loading posts: " + resp.status;
+            return;
+          }
+          const posts = await resp.json();
+          if (!posts.length) {
+            postsDiv.innerHTML = "<p>No posts found.</p>";
+            return;
+          }
+          postsDiv.innerHTML = ""; // Clear "Loading..." or "No posts found."
+          for (const p of posts) {
+            postsDiv.appendChild(renderPost(p));
+          }
+        } catch (e) {
+          postsDiv.innerHTML = "Fetch error: " + e.message;
+        }
+      }
+
+      loadBtn.addEventListener("click", () => {
+        const ch = input.value.trim();
+        if (!ch) return alert("Enter a channel username (no @).");
+        loadChannel(ch);
+      });
+
+      // Automatically load a default channel
+      input.value = "freelance_ethio"; // Set default channel
+      loadChannel("freelance_ethio"); // Load posts for the default channel
+    </script>
+  </body>
+</html>
