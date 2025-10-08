@@ -109,7 +109,12 @@
           }
           const posts = await resp.json();
           if (!posts.length) {
-            postsDiv.innerHTML = "<p>No posts found.</p>";
+            postsDiv.innerHTML =
+              "<p>No posts found. Attempting to fetch historical messages for this channel. Please wait a few minutes and try again.</p>";
+            // Trigger historical fetch for this channel
+            await fetch(`/api/add_channel_for_history/${channel}`, {
+              method: "POST",
+            });
             return;
           }
           postsDiv.innerHTML = ""; // Clear "Loading..." or "No posts found."
@@ -128,8 +133,6 @@
       });
 
       // Automatically load a default channel
-      input.value = "freelance_ethio"; // Set default channel
-      loadChannel("freelance_ethio"); // Load posts for the default channel
     </script>
   </body>
 </html>

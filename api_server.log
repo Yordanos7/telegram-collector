@@ -1,0 +1,428 @@
+nohup: ignoring input
+INFO:     Started server process [134549]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     ('127.0.0.1', 34500) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:34486 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 40920) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:40934 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 40946) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:40934 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     ('127.0.0.1', 40916) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:40896 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40896 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40904 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40922 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40924 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40930 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40926 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40926 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40930 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40922 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40924 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40904 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40896 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40904 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40896 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40924 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40922 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40930 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40904 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40922 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40904 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40922 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40930 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40896 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40924 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40926 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52906 - "GET /index.html HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 52918) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:52906 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52906 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52912 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52920 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52930 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52946 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52954 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52912 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52920 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52954 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52912 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52946 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52930 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52906 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52930 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52946 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52912 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52920 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52906 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52954 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52906 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52954 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52946 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52912 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52930 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52920 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     connection closed
+INFO:     ('127.0.0.1', 57874) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:52920 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52920 - "POST /api/add_channel_for_history/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41700 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     ('127.0.0.1', 41720) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:41700 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41700 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41716 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41730 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41734 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41756 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41748 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41716 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41748 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41734 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41756 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41700 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41730 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41748 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41716 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41730 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41700 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41756 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41734 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41716 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41748 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41734 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41756 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41700 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41730 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41734 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     connection closed
+INFO:     ('127.0.0.1', 39040) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:39048 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39048 - "POST /api/add_channel_for_history/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49132 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49162) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:49132 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49132 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49146 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49180 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49182 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49172 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49194 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49132 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49194 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49146 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49180 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49172 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49182 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49194 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49182 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49180 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49146 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49132 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49172 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49182 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49172 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49146 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49180 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49132 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49194 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49146 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     connection closed
+INFO:     ('127.0.0.1', 56166) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:56164 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56164 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56168 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56182 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56208 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56218 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56194 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56168 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56164 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56194 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56218 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56182 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56208 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56164 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56168 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56208 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56182 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56194 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56218 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56208 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56168 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56218 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56194 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56182 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56168 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56208 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     connection closed
+INFO:     ('127.0.0.1', 47998) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:48008 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48008 - "POST /api/add_channel_for_history/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45708 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     ('127.0.0.1', 45736) - "WebSocket /ws/freelance_ethio" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:45708 - "GET /api/posts/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45752 - "POST /api/new_post/freelance_ethio HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45708 - "GET /freelance_ethio_85774.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45722 - "GET /freelance_ethio_85784.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45758 - "GET /freelance_ethio_85800.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45762 - "GET /freelance_ethio_85901.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45774 - "GET /freelance_ethio_85987.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45768 - "GET /freelance_ethio_85900.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45708 - "GET /freelance_ethio_86081.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45768 - "GET /freelance_ethio_86161.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45762 - "GET /freelance_ethio_86211.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45708 - "GET /freelance_ethio_86213.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45774 - "GET /freelance_ethio_86190.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45722 - "GET /freelance_ethio_86214.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45758 - "GET /freelance_ethio_86364.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45774 - "GET /freelance_ethio_86372.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45762 - "GET /freelance_ethio_86435.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45708 - "GET /freelance_ethio_86481.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45768 - "GET /freelance_ethio_86523.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45774 - "GET /freelance_ethio_86525.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45758 - "GET /freelance_ethio_86533.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45722 - "GET /freelance_ethio_86538.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45768 - "GET /freelance_ethio_86548.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45708 - "GET /freelance_ethio_86580.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45762 - "GET /freelance_ethio_86569.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45722 - "GET /freelance_ethio_86605.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45758 - "GET /freelance_ethio_86621.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40126 - "GET /index.html HTTP/1.1" 200 OK
+INFO:     connection closed
+INFO:     ('127.0.0.1', 36918) - "WebSocket /ws/Code_Bender" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: freelance_ethio
+INFO:     127.0.0.1:40130 - "GET /api/posts/Code_Bender HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40130 - "GET /Code_Bender_110.jpg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39268 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     ('127.0.0.1', 39286) - "WebSocket /ws/tikvahethiopia" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: Code_Bender
+INFO:     127.0.0.1:39268 - "GET /api/posts/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39268 - "POST /api/add_channel_for_history/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39284 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed
+INFO:     ('127.0.0.1', 55120) - "WebSocket /ws/Dagmawi_Babi" [accepted]
+INFO:     connection open
+WebSocket disconnected for channel: tikvahethiopia
+INFO:     127.0.0.1:39284 - "GET /api/posts/Dagmawi_Babi HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39284 - "POST /api/add_channel_for_history/Dagmawi_Babi HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41574 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100483.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41590 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100482.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41594 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100481.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41602 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100480.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41606 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100477.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41608 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100476.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41620 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100475.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41636 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100474.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41652 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100473.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41668 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100472.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41682 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100471.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41696 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100470.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41710 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100469.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41718 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100468.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41726 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100467.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41742 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100466.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60324 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100465.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60340 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100464.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60350 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100463.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60356 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100462.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60366 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100461.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60374 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100460.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100459.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60388 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100458.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60396 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100457.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60404 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100456.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60416 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100455.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60428 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100454.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60432 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100453.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100452.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60450 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100451.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60458 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100450.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60460 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100449.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60466 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100448.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42374 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100447.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42384 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100446.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42398 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100445.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42412 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100444.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42426 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100443.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42436 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100442.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42442 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100441.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42446 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100440.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42458 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100439.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42470 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100438.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42478 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100437.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35108 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100436.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35112 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100435.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35122 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100434.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35130 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100433.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35136 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100432.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35140 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100431.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35156 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100430.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35166 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100429.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35174 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100428.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35186 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100427.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35190 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100426.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35196 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100425.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35210 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100424.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35216 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100423.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35222 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100422.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35228 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100421.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35232 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100420.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35246 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100418.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35254 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100417.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36800 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100416.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36808 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100415.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36820 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100414.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36828 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100413.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36830 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100412.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36842 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100411.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36858 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100410.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36862 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100409.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36870 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100408.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36872 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100407.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36876 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100406.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36886 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100405.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36898 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100404.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36910 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100403.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36914 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100402.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36930 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100401.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42614 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100400.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42620 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100399.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42636 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100398.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42642 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100397.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42652 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100396.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42666 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100395.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42674 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100394.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42680 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100393.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42690 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100392.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42700 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100391.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42702 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100390.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42718 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100389.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42730 - "POST /api/new_post/tikvahethiopia HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41580 - "GET /tikvahethiopia_100388.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42358 - "GET /index.html HTTP/1.1" 304 Not Modified
+INFO:     connection closed

@@ -15,9 +15,15 @@ load_dotenv()
 
 DB_URL = os.getenv("DB_URL", "sqlite:///./db.sqlite")
 MEDIA_DIR = os.getenv("MEDIA_DIR", "./media")
+CHANNELS_HISTORY_FILE = "channels_for_history.json"
 
 engine = create_engine(DB_URL, future=True)
 metadata.create_all(engine)
+
+# Ensure channels history file exists
+if not os.path.exists(CHANNELS_HISTORY_FILE):
+    with open(CHANNELS_HISTORY_FILE, "w") as f:
+        json.dump({"channels": []}, f)
 
 app = FastAPI(title="Telegram Collector API")
 
@@ -70,9 +76,11 @@ class PostOut(BaseModel):
     posted_at: Optional[str]
 
 @app.get("/api/posts/{channel}", response_model=List[PostOut])
-def get_posts(channel: str, limit: int = 50, offset: int = 0):
+def get_posts(channel: str, limit: Optional[int] = None, offset: int = 0):
     with Session(engine) as session:
-        stmt = select(posts_table).where(posts_table.c.channel == channel).order_by(posts_table.c.posted_at.desc()).offset(offset).limit(limit)
+        stmt = select(posts_table).where(posts_table.c.channel == channel).order_by(posts_table.c.posted_at.desc()).offset(offset)
+        if limit is not None:
+            stmt = stmt.limit(limit)
         rows = session.execute(stmt).all()
         result = []
         for row in rows:
@@ -136,3 +144,18 @@ def get_posts_table():
 async def new_post_notification(channel: str, post: PostOut):
     await manager.broadcast(json.dumps(post.dict()), channel)
     return {"message": "Post broadcasted"}
+
+@app.post("/api/add_channel_for_history/{channel_name}")
+async def add_channel_for_history(channel_name: str):
+    try:
+        with open(CHANNELS_HISTORY_FILE, "r+") as f:
+            data = json.load(f)
+            if channel_name not in data["channels"]:
+                data["channels"].append(channel_name)
+                f.seek(0)  # Rewind to the beginning of the file
+                json.dump(data, f, indent=4)
+                f.truncate() # Truncate any remaining old content
+                return {"message": f"Channel '{channel_name}' added for historical fetching."}
+            return {"message": f"Channel '{channel_name}' already in list for historical fetching."}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error adding channel for history: {e}")
