@@ -34,6 +34,9 @@ SessionLocal = sessionmaker(bind=engine, expire_on_commit=False)
 
 client = TelegramClient(SESSION_NAME, API_ID, API_HASH)
 
+# Set to keep track of channels currently being monitored for new messages
+monitored_channels = set()
+
 async def get_channel_identifier(event):
     if event.chat:
         if event.chat.username:
@@ -105,6 +108,42 @@ async def handler(event):
     except Exception as e:
         print(f"Error saving message for channel {channel_identifier}:", e)
 
+async def monitor_channels_for_history():
+    global monitored_channels
+    while True:
+        if os.path.exists(CHANNELS_HISTORY_FILE):
+            try:
+                async with aiofiles.open(CHANNELS_HISTORY_FILE, mode="r") as f:
+                    content = await f.read()
+                    data = json.loads(content)
+                    channels_from_file = set(data.get("channels", []))
+
+                new_channels = channels_from_file - monitored_channels
+                if new_channels:
+                    print(f"New channels detected: {new_channels}. Attempting to add to real-time monitoring.")
+                    for channel_name in new_channels:
+                        try:
+                            # Attempt to get entity to ensure the channel is accessible
+                            entity = await client.get_entity(channel_name)
+                            print(f"Successfully resolved entity for {channel_name} (ID: {entity.id}). Now monitoring for new messages.")
+                            monitored_channels.add(channel_name)
+                        except Exception as e:
+                            print(f"Error resolving entity or adding channel {channel_name} to monitor: {e}")
+                            print(f"Please ensure '{channel_name}' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.")
+                
+                # Remove channels that are no longer in the file (optional, but good for cleanup)
+                removed_channels = monitored_channels - channels_from_file
+                if removed_channels:
+                    print(f"Channels removed from monitoring: {removed_channels}")
+                    for channel_name in removed_channels:
+                        monitored_channels.remove(channel_name)
+
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON from {CHANNELS_HISTORY_FILE}: {e}")
+            except Exception as e:
+                print(f"Error in monitor_channels_for_history: {e}")
+        await asyncio.sleep(30) # Check every 30 seconds
+
 async def main():
     print("Starting Telegram listener...")
     print(f"Configured API_ID: {API_ID}")
@@ -126,12 +165,19 @@ async def main():
         # Do not exit, as the listener can still listen to other channels it has access to
         # return
 
+    # Start the channel monitoring task
+    asyncio.create_task(monitor_channels_for_history())
+
     # Load channels to fetch history for
     channels_to_process = []
     if os.path.exists(CHANNELS_HISTORY_FILE):
         with open(CHANNELS_HISTORY_FILE, "r") as f:
             data = json.load(f)
             channels_to_process = data.get("channels", [])
+            # Initialize monitored_channels with existing channels from file
+            global monitored_channels
+            monitored_channels.update(channels_to_process)
+
 
     # Load already processed channels
     processed_channels = set()
@@ -144,12 +190,15 @@ async def main():
         if channel_name not in processed_channels:
             print(f"Fetching up to 1000 historical messages from {channel_name}...")
             try:
-                async for message in client.iter_messages(channel_name, limit=1000):
+                # Ensure the channel entity can be resolved before fetching history
+                entity = await client.get_entity(channel_name)
+                async for message in client.iter_messages(entity, limit=1000): # Use entity directly
                     await save_media_and_record(message, channel_name)
                 print(f"Finished fetching historical messages for {channel_name}.")
                 processed_channels.add(channel_name)
             except Exception as e:
                 print(f"Error fetching historical messages for {channel_name}: {e}")
+                print(f"Please ensure '{channel_name}' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.")
         else:
             print(f"Historical messages for {channel_name} already processed. Skipping.")
 

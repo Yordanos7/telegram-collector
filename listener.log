@@ -1,1 +1,1598 @@
-nohup: ignoring input
+Starting Telegram listener...
+Configured API_ID: 27665029
+Default CHANNEL_USERNAME for initial entity resolution: freelance_ethio
+Client authorized successfully.
+Client started. Listening for messages.
+Successfully resolved default channel entity for freelance_ethio: 1193582142
+Fetching up to 1000 historical messages from tikvahethiopia...
+Message 100714 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100713 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100712 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100711 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100710 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100709 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100708 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100707 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100706 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100705 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100704 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100703 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100702 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100701 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100700 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100699 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100698 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100697 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100696 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100695 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100694 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100693 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100692 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100688 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100687 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100686 already exists in DB for channel tikvahethiopia. Skipping.
+Received new message in chapidevtalks_group: 32377
+Message 32377 already exists in DB for channel chapidevtalks_group. Skipping.
+Message 100685 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100684 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100683 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100682 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100681 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100680 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100679 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100678 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100677 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100676 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100675 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100674 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100673 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100672 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100671 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100670 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100669 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100668 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100666 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100665 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100664 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100663 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100662 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100661 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100660 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100659 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100658 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100657 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100656 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100655 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100654 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100653 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100652 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100651 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100650 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100649 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100648 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100647 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100646 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100645 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100644 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100643 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100642 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100641 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100640 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100639 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100638 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100637 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100636 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100635 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100634 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100633 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100632 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 100631 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100628 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100627 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100626 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100625 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100624 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100623 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100622 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100621 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100620 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100619 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100618 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100615 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100614 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100613 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100612 already exists in DB for channel tikvahethiopia. SkippMessaMessage 100611 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100610 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100609 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100608 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100607 already exists in DB for channel tikvahethiopia. Skipping.
+Error fetching historical messages for tikvahethiopia: database is locked
+Please ensure 'tikvahethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Fetching up to 1000 historical messages from Dagmawi_Babi...
+Error fetching historical messages for Dagmawi_Babi: database is locked
+Please ensure 'Dagmawi_Babi' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Fetching up to 1000 historical messages from ticva...
+Error fetching historical messages for ticva: Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+Please ensure 'ticva' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Fetching up to 1000 historical messages from Global_Dreamss...
+Error fetching historical messages for Global_Dreamss: database is locked
+Please ensure 'Global_Dreamss' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Fetching up to 1000 historical messages from beteafework...
+Error fetching historical messages for beteafework: database is locked
+Please ensure 'beteafework' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Received new message in freelance_ethio: 87262
+Message 87262 already exists in DB for channel freelance_ethio. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Received new message in zulu_tech: 3771
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 3771 (media: True) for channel zulu_tech
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Cannot get difference since the account is likely misusing the session: database is locked
+Unhandled exception from keepalive_handle after cancelling <class '_asyncio.Task'> (<Task finished name='Task-7' coro=<UpdateMethods._keepalive_loop() done, defined at /home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py:485> exception=OperationalError('database is locked')>)
+Traceback (most recent call last):
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/helpers.py", line 176, in _cancel
+    await task
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 521, in _keepalive_loop
+    await self._save_states_and_entities()
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py", line 701, in _save_states_and_entities
+    self.session.process_entities(
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/sessions/sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<TelegramBaseClient._disconnect_coro() done, defined at /home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py:716> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py", line 746, in _disconnect_coro
+    await self._save_states_and_entities()
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py", line 701, in _save_states_and_entities
+    self.session.process_entities(
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/sessions/sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+Unhandled exception from keepalive_handle after cancelling <class '_asyncio.Task'> (<Task finished name='Task-7' coro=<UpdateMethods._keepalive_loop() done, defined at /home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py:485> exception=OperationalError('database is locked')>)
+Traceback (most recent call last):
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/helpers.py", line 176, in _cancel
+    await task
+sqlite3.OperationalError: database is locked
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Traceback (most recent call last):
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 38, in _run_until_disconnected
+    raise self._updates_error
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 308, in _update_loop
+    diff = await self(get_diff)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/users.py", line 93, in _call
+    await utils.maybe_async(self.session.process_entities(result))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/sessions/sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yordanos/Desktop/A/telegram-collector/listener.py", line 212, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/yordanos/Desktop/A/telegram-collector/listener.py", line 209, in main
+    await client.run_until_disconnected()
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/updates.py", line 43, in _run_until_disconnected
+    await self.disconnect()
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py", line 746, in _disconnect_coro
+    await self._save_states_and_entities()
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/client/telegrambaseclient.py", line 701, in _save_states_and_entities
+    self.session.process_entities(
+  File "/home/yordanos/Desktop/A/telegram-collector/.venv/lib/python3.12/site-packages/telethon/sessions/sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+a to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100407 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100406 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100405 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100404 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100403 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100402 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100401 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100400 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100399 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100398 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100397 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100396 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100395 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100394 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100393 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100392 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100391 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100390 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100389 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100388 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100387 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100386 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100385 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100384 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100383 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100382 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100381 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100380 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100379 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100378 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100377 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100376 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100375 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100373 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100372 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Received new message in freelance_ethio: 87262
+Saved message 87262 (media: False) for channel freelance_ethio
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100371 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100370 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100369 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100368 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100367 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100366 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100365 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100364 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100363 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100362 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100361 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100360 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100359 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100358 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100357 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100356 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100355 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100354 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100353 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100347 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100346 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100345 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100344 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100343 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100342 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100341 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100340 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100339 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100338 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100337 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100336 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100335 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100334 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100333 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100332 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100331 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100330 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100329 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100328 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100327 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100326 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100325 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100324 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100323 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100322 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100321 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100320 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100319 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 100318 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100317 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100316 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100315 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100314 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100313 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100312 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100311 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100310 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100309 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100308 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100307 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100306 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100305 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100304 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100303 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100302 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100301 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100300 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100299 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100298 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100297 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100296 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100295 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100294 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100293 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100292 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100291 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100290 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100289 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100288 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100287 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100286 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100285 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100284 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100283 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100282 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100281 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100280 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100279 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100278 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100277 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100276 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100275 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100274 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100273 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100272 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100271 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100270 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100269 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100268 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100267 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100266 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100265 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100264 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100263 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100262 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100261 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100260 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100259 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100258 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100257 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100256 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 100255 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100254 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100253 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100252 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100251 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100250 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100249 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100248 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100247 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100246 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100245 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100244 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100243 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100242 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100241 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100240 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100239 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100238 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100237 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100236 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100235 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100234 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100233 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100232 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100231 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100230 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100229 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100228 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100227 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100226 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100225 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100224 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100223 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100222 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100221 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100220 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100219 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100218 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100217 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100216 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100215 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100214 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100213 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100212 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100211 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100210 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100209 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100208 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100207 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100206 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100205 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100204 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100203 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100202 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100201 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100200 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100199 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100197 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 100196 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100195 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100194 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100193 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100192 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100191 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100190 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100189 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100188 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100187 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100186 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100185 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100184 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100183 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100182 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100181 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100180 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100179 already exists in DB for channel tikvahethiopia. Skipping.
+Received new message in zulu_tech: 3771
+Message 100178 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100177 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100176 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100175 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100174 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100173 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100172 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100171 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100170 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100169 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100168 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100167 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100166 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100165 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100164 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100163 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100162 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100161 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100160 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100159 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100158 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100157 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100156 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100155 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100154 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100153 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100152 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100151 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100150 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100149 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100148 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100147 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100146 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100145 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100144 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100143 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100142 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100141 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100140 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100139 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100138 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100137 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100136 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100135 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100134 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100133 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100132 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100131 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100130 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100129 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100128 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100127 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100126 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100125 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100124 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100123 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100122 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100121 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100120 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100119 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100118 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100117 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100116 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100115 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100114 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100113 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100112 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100111 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100110 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100109 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100108 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100107 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100106 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100105 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100104 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100103 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100102 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100101 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100100 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100099 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100098 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100097 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100096 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100095 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100094 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100093 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100092 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100091 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100090 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100089 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100088 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100087 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100086 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100083 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100082 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100081 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100080 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100079 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100078 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100077 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100076 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100075 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100074 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100073 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100072 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100071 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100070 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100069 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100068 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100067 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100066 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100065 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100064 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100063 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100062 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100061 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100060 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100059 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100058 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100052 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100051 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100048 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100047 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100046 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100045 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100044 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100043 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100042 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100041 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100040 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100039 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100038 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100037 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100036 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100035 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100034 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100033 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100032 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100031 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100030 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100029 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100028 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100027 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100026 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100025 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100024 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100023 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100022 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100021 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100020 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100019 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100018 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100017 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100014 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100013 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100012 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100011 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100010 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100009 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100008 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100007 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 100006 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100005 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100004 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100003 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100002 already exists in DB for channel tikvahethiopia. Skipping.
+Message 3771 already exists in DB for channel zulu_tech. Skipping.
+Message 100001 already exists in DB for channel tikvahethiopia. Skipping.
+Message 100000 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99999 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99996 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99995 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99994 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99993 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99992 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99991 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99988 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99987 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99986 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99985 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99984 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99983 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99982 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99981 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99980 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99979 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99978 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99977 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99976 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99975 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99974 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99973 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99972 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99971 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99970 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99969 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99962 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99961 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99960 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99959 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99958 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99957 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 99956 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99955 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99952 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99951 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99949 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99948 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99946 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99945 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99944 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99943 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99942 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99941 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99940 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99938 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99937 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99936 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99935 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99934 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99933 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99932 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99931 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99930 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99929 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99928 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99926 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99925 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99922 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99921 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99920 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99916 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99915 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99914 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99913 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99912 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99911 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99910 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99909 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99908 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99906 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99905 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99904 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99903 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99902 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99901 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99900 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99899 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99898 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99897 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99896 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99895 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99894 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99893 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99892 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99891 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 99890 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 99889 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99888 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99887 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99886 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99885 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99884 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99883 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99882 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99881 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99880 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99879 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99878 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99877 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99876 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99875 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99874 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99873 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99872 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99871 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 99866 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99865 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99864 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99863 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99862 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99861 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99860 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99859 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99858 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99857 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99856 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99855 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99854 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99853 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99852 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99851 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99850 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99849 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99848 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99847 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99846 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99845 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99844 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 99843 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99842 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99841 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99840 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99839 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99838 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99837 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99836 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99835 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99834 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99833 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99832 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99831 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99830 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99829 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99828 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99827 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99826 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99825 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99824 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99822 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99821 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99820 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99819 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99818 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99815 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99814 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Message 99813 already exists in DB for channel tikvahethiopia. Skipping.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Message 99812 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99811 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99810 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99809 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99808 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99807 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99806 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99805 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99804 already exists in DB for channel tikvahethiopia. Skipping.
+Message 99803 already exists in DB for channel tikvahethiopia. Skipping.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99802 (media: True) for channel tikvahethiopia
+Saved message 99800 (media: True) for channel tikvahethiopia
+Saved message 99799 (media: True) for channel tikvahethiopia
+Saved message 99798 (media: True) for channel tikvahethiopia
+Received new message in zulu_tech: 3772
+Saved message 99797 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99796 (media: True) for channel tikvahethiopia
+Saved message 99795 (media: True) for channel tikvahethiopia
+Saved message 99794 (media: True) for channel tikvahethiopia
+Saved message 99793 (media: True) for channel tikvahethiopia
+Saved message 99792 (media: True) for channel tikvahethiopia
+Saved message 99791 (media: True) for channel tikvahethiopia
+Saved message 99790 (media: True) for channel tikvahethiopia
+Saved message 99789 (media: True) for channel tikvahethiopia
+Saved message 99788 (media: True) for channel tikvahethiopia
+Saved message 99787 (media: True) for channel tikvahethiopia
+Saved message 99786 (media: True) for channel tikvahethiopia
+Saved message 99785 (media: True) for channel tikvahethiopia
+Saved message 99784 (media: True) for channel tikvahethiopia
+Saved message 99783 (media: True) for channel tikvahethiopia
+Saved message 99782 (media: True) for channel tikvahethiopia
+Saved message 99781 (media: True) for channel tikvahethiopia
+Saved message 99780 (media: True) for channel tikvahethiopia
+Saved message 99779 (media: True) for channel tikvahethiopia
+Saved message 99778 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99777 (media: True) for channel tikvahethiopia
+Saved message 3772 (media: True) for channel zulu_tech
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99776 (media: True) for channel tikvahethiopia
+Saved message 99775 (media: True) for channel tikvahethiopia
+Saved message 99774 (media: True) for channel tikvahethiopia
+Saved message 99773 (media: True) for channel tikvahethiopia
+Saved message 99772 (media: True) for channel tikvahethiopia
+Saved message 99771 (media: True) for channel tikvahethiopia
+Saved message 99770 (media: True) for channel tikvahethiopia
+Saved message 99769 (media: True) for channel tikvahethiopia
+Saved message 99768 (media: True) for channel tikvahethiopia
+Saved message 99767 (media: True) for channel tikvahethiopia
+Saved message 99766 (media: True) for channel tikvahethiopia
+Saved message 99765 (media: True) for channel tikvahethiopia
+Saved message 99764 (media: True) for channel tikvahethiopia
+Saved message 99763 (media: True) for channel tikvahethiopia
+Saved message 99762 (media: True) for channel tikvahethiopia
+Saved message 99761 (media: True) for channel tikvahethiopia
+Saved message 99760 (media: True) for channel tikvahethiopia
+Saved message 99759 (media: True) for channel tikvahethiopia
+Saved message 99758 (media: True) for channel tikvahethiopia
+Saved message 99757 (media: True) for channel tikvahethiopia
+Saved message 99756 (media: True) for channel tikvahethiopia
+Saved message 99754 (media: True) for channel tikvahethiopia
+Saved message 99753 (media: True) for channel tikvahethiopia
+Saved message 99752 (media: True) for channel tikvahethiopia
+Saved message 99751 (media: True) for channel tikvahethiopia
+Saved message 99750 (media: True) for channel tikvahethiopia
+Saved message 99749 (media: True) for channel tikvahethiopia
+Saved message 99748 (media: True) for channel tikvahethiopia
+Saved message 99747 (media: True) for channel tikvahethiopia
+Saved message 99746 (media: True) for channel tikvahethiopia
+Saved message 99745 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99744 (media: True) for channel tikvahethiopia
+Saved message 99743 (media: True) for channel tikvahethiopia
+Saved message 99742 (media: True) for channel tikvahethiopia
+Saved message 99741 (media: True) for channel tikvahethiopia
+Saved message 99740 (media: True) for channel tikvahethiopia
+Saved message 99739 (media: True) for channel tikvahethiopia
+Saved message 99738 (media: True) for channel tikvahethiopia
+Saved message 99737 (media: True) for channel tikvahethiopia
+Saved message 99736 (media: True) for channel tikvahethiopia
+Saved message 99735 (media: True) for channel tikvahethiopia
+Saved message 99734 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 99733 (media: True) for channel tikvahethiopia
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99732 (media: True) for channel tikvahethiopia
+Saved message 99731 (media: True) for channel tikvahethiopia
+Saved message 99730 (media: True) for channel tikvahethiopia
+Saved message 99729 (media: True) for channel tikvahethiopia
+Saved message 99728 (media: True) for channel tikvahethiopia
+Saved message 99727 (media: True) for channel tikvahethiopia
+Saved message 99726 (media: True) for channel tikvahethiopia
+Saved message 99725 (media: True) for channel tikvahethiopia
+Saved message 99724 (media: True) for channel tikvahethiopia
+Saved message 99723 (media: True) for channel tikvahethiopia
+Saved message 99722 (media: True) for channel tikvahethiopia
+Saved message 99721 (media: True) for channel tikvahethiopia
+Saved message 99719 (media: True) for channel tikvahethiopia
+Saved message 99718 (media: True) for channel tikvahethiopia
+Saved message 99717 (media: True) for channel tikvahethiopia
+Saved message 99716 (media: True) for channel tikvahethiopia
+Saved message 99715 (media: True) for channel tikvahethiopia
+Saved message 99714 (media: True) for channel tikvahethiopia
+Saved message 99713 (media: True) for channel tikvahethiopia
+Saved message 99712 (media: True) for channel tikvahethiopia
+Saved message 99711 (media: True) for channel tikvahethiopia
+Saved message 99710 (media: True) for channel tikvahethiopia
+Saved message 99709 (media: True) for channel tikvahethiopia
+Saved message 99708 (media: True) for channel tikvahethiopia
+Saved message 99707 (media: True) for channel tikvahethiopia
+Saved message 99706 (media: True) for channel tikvahethiopia
+Saved message 99705 (media: True) for channel tikvahethiopia
+Saved message 99704 (media: True) for channel tikvahethiopia
+Saved message 99703 (media: True) for channel tikvahethiopia
+Saved message 99702 (media: True) for channel tikvahethiopia
+Saved message 99701 (media: True) for channel tikvahethiopia
+Saved message 99700 (media: True) for channel tikvahethiopia
+Saved message 99699 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 99698 (media: True) for channel tikvahethiopia
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99697 (media: True) for channel tikvahethiopia
+Saved message 99696 (media: True) for channel tikvahethiopia
+Saved message 99695 (media: True) for channel tikvahethiopia
+Saved message 99694 (media: True) for channel tikvahethiopia
+Saved message 99693 (media: True) for channel tikvahethiopia
+Saved message 99692 (media: True) for channel tikvahethiopia
+Saved message 99691 (media: True) for channel tikvahethiopia
+Saved message 99690 (media: True) for channel tikvahethiopia
+Saved message 99689 (media: True) for channel tikvahethiopia
+Saved message 99688 (media: True) for channel tikvahethiopia
+Saved message 99687 (media: True) for channel tikvahethiopia
+Saved message 99686 (media: True) for channel tikvahethiopia
+Saved message 99685 (media: True) for channel tikvahethiopia
+Saved message 99684 (media: True) for channel tikvahethiopia
+Saved message 99683 (media: True) for channel tikvahethiopia
+Saved message 99682 (media: True) for channel tikvahethiopia
+Saved message 99681 (media: True) for channel tikvahethiopia
+Saved message 99680 (media: True) for channel tikvahethiopia
+Saved message 99679 (media: True) for channel tikvahethiopia
+Saved message 99678 (media: True) for channel tikvahethiopia
+Saved message 99677 (media: True) for channel tikvahethiopia
+Saved message 99676 (media: True) for channel tikvahethiopia
+Saved message 99675 (media: True) for channel tikvahethiopia
+Saved message 99674 (media: True) for channel tikvahethiopia
+Saved message 99673 (media: True) for channel tikvahethiopia
+Saved message 99672 (media: True) for channel tikvahethiopia
+Saved message 99671 (media: True) for channel tikvahethiopia
+Saved message 99670 (media: True) for channel tikvahethiopia
+Saved message 99669 (media: True) for channel tikvahethiopia
+Saved message 99668 (media: True) for channel tikvahethiopia
+Saved message 99667 (media: True) for channel tikvahethiopia
+Saved message 99666 (media: True) for channel tikvahethiopia
+Saved message 99665 (media: True) for channel tikvahethiopia
+Saved message 99664 (media: True) for channel tikvahethiopia
+Saved message 99663 (media: True) for channel tikvahethiopia
+Saved message 99662 (media: True) for channel tikvahethiopia
+Saved message 99661 (media: True) for channel tikvahethiopia
+Saved message 99660 (media: True) for channel tikvahethiopia
+Saved message 99656 (media: True) for channel tikvahethiopia
+Saved message 99655 (media: True) for channel tikvahethiopia
+Saved message 99654 (media: True) for channel tikvahethiopia
+Saved message 99653 (media: True) for channel tikvahethiopia
+Saved message 99652 (media: True) for channel tikvahethiopia
+Saved message 99651 (media: True) for channel tikvahethiopia
+Saved message 99650 (media: True) for channel tikvahethiopia
+Saved message 99649 (media: True) for channel tikvahethiopia
+Saved message 99648 (media: True) for channel tikvahethiopia
+Saved message 99647 (media: True) for channel tikvahethiopia
+Saved message 99646 (media: True) for channel tikvahethiopia
+Saved message 99645 (media: True) for channel tikvahethiopia
+Saved message 99644 (media: True) for channel tikvahethiopia
+Saved message 99643 (media: True) for channel tikvahethiopia
+Saved message 99642 (media: True) for channel tikvahethiopia
+Saved message 99641 (media: True) for channel tikvahethiopia
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 99640 (media: True) for channel tikvahethiopia
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 99639 (media: True) for channel tikvahethiopia
+Saved message 99638 (media: True) for channel tikvahethiopia
+Finished fetching historical messages for tikvahethiopia.
+Fetching up to 1000 historical messages from Dagmawi_Babi...
+Saved message 32731 (media: True) for channel Dagmawi_Babi
+Saved message 32730 (media: True) for channel Dagmawi_Babi
+Saved message 32729 (media: True) for channel Dagmawi_Babi
+Saved message 32728 (media: False) for channel Dagmawi_Babi
+Saved message 32727 (media: False) for channel Dagmawi_Babi
+Saved message 32726 (media: False) for channel Dagmawi_Babi
+Saved message 32725 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32724 (media: True) for channel Dagmawi_Babi
+Saved message 32723 (media: False) for channel Dagmawi_Babi
+Saved message 32722 (media: True) for channel Dagmawi_Babi
+Saved message 32721 (media: False) for channel Dagmawi_Babi
+Saved message 32720 (media: False) for channel Dagmawi_Babi
+Saved message 32719 (media: False) for channel Dagmawi_Babi
+Saved message 32718 (media: True) for channel Dagmawi_Babi
+Saved message 32717 (media: True) for channel Dagmawi_Babi
+Saved message 32716 (media: True) for channel Dagmawi_Babi
+Saved message 32715 (media: True) for channel Dagmawi_Babi
+Saved message 32714 (media: True) for channel Dagmawi_Babi
+Saved message 32713 (media: True) for channel Dagmawi_Babi
+Saved message 32712 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32711 (media: True) for channel Dagmawi_Babi
+Saved message 32710 (media: False) for channel Dagmawi_Babi
+Saved message 32709 (media: False) for channel Dagmawi_Babi
+Saved message 32708 (media: True) for channel Dagmawi_Babi
+Saved message 32707 (media: True) for channel Dagmawi_Babi
+Saved message 32706 (media: False) for channel Dagmawi_Babi
+Saved message 32705 (media: True) for channel Dagmawi_Babi
+Saved message 32704 (media: True) for channel Dagmawi_Babi
+Saved message 32703 (media: True) for channel Dagmawi_Babi
+Saved message 32702 (media: True) for channel Dagmawi_Babi
+Saved message 32701 (media: True) for channel Dagmawi_Babi
+Saved message 32700 (media: False) for channel Dagmawi_Babi
+Saved message 32699 (media: False) for channel Dagmawi_Babi
+Saved message 32698 (media: True) for channel Dagmawi_Babi
+Saved message 32697 (media: True) for channel Dagmawi_Babi
+Saved message 32696 (media: True) for channel Dagmawi_Babi
+Saved message 32695 (media: True) for channel Dagmawi_Babi
+Saved message 32694 (media: True) for channel Dagmawi_Babi
+Saved message 32693 (media: True) for channel Dagmawi_Babi
+Saved message 32692 (media: True) for channel Dagmawi_Babi
+Saved message 32691 (media: True) for channel Dagmawi_Babi
+Saved message 32690 (media: True) for channel Dagmawi_Babi
+Saved message 32689 (media: True) for channel Dagmawi_Babi
+Saved message 32688 (media: True) for channel Dagmawi_Babi
+Saved message 32687 (media: True) for channel Dagmawi_Babi
+Saved message 32686 (media: True) for channel Dagmawi_Babi
+Saved message 32685 (media: True) for channel Dagmawi_Babi
+Saved message 32684 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32683 (media: True) for channel Dagmawi_Babi
+Saved message 32682 (media: False) for channel Dagmawi_Babi
+Saved message 32681 (media: False) for channel Dagmawi_Babi
+Saved message 32680 (media: False) for channel Dagmawi_Babi
+Saved message 32679 (media: False) for channel Dagmawi_Babi
+Saved message 32678 (media: True) for channel Dagmawi_Babi
+Saved message 32677 (media: True) for channel Dagmawi_Babi
+Saved message 32676 (media: False) for channel Dagmawi_Babi
+Saved message 32675 (media: True) for channel Dagmawi_Babi
+Saved message 32674 (media: True) for channel Dagmawi_Babi
+Saved message 32673 (media: True) for channel Dagmawi_Babi
+Saved message 32672 (media: True) for channel Dagmawi_Babi
+Saved message 32671 (media: False) for channel Dagmawi_Babi
+Saved message 32670 (media: True) for channel Dagmawi_Babi
+Saved message 32669 (media: True) for channel Dagmawi_Babi
+Saved message 32668 (media: True) for channel Dagmawi_Babi
+Saved message 32667 (media: True) for channel Dagmawi_Babi
+Saved message 32666 (media: True) for channel Dagmawi_Babi
+Saved message 32665 (media: True) for channel Dagmawi_Babi
+Saved message 32664 (media: True) for channel Dagmawi_Babi
+Saved message 32663 (media: True) for channel Dagmawi_Babi
+Saved message 32662 (media: True) for channel Dagmawi_Babi
+Saved message 32661 (media: True) for channel Dagmawi_Babi
+Saved message 32660 (media: True) for channel Dagmawi_Babi
+Saved message 32659 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32658 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32657 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32656 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32655 (media: True) for channel Dagmawi_Babi
+Saved message 32654 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32653 (media: True) for channel Dagmawi_Babi
+Saved message 32651 (media: False) for channel Dagmawi_Babi
+Saved message 32650 (media: True) for channel Dagmawi_Babi
+Saved message 32649 (media: True) for channel Dagmawi_Babi
+Saved message 32648 (media: True) for channel Dagmawi_Babi
+Saved message 32647 (media: False) for channel Dagmawi_Babi
+Saved message 32646 (media: False) for channel Dagmawi_Babi
+Saved message 32645 (media: False) for channel Dagmawi_Babi
+Saved message 32644 (media: False) for channel Dagmawi_Babi
+Saved message 32643 (media: True) for channel Dagmawi_Babi
+Saved message 32642 (media: True) for channel Dagmawi_Babi
+Saved message 32641 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Received new message in LaptopLaivstyle: 9104
+Saved message 9104 (media: True) for channel LaptopLaivstyle
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32640 (media: True) for channel Dagmawi_Babi
+Saved message 32638 (media: True) for channel Dagmawi_Babi
+Saved message 32637 (media: True) for channel Dagmawi_Babi
+Saved message 32636 (media: True) for channel Dagmawi_Babi
+Saved message 32635 (media: True) for channel Dagmawi_Babi
+Saved message 32634 (media: False) for channel Dagmawi_Babi
+Saved message 32633 (media: False) for channel Dagmawi_Babi
+Saved message 32632 (media: True) for channel Dagmawi_Babi
+Saved message 32631 (media: True) for channel Dagmawi_Babi
+Saved message 32630 (media: True) for channel Dagmawi_Babi
+Saved message 32629 (media: True) for channel Dagmawi_Babi
+Saved message 32628 (media: False) for channel Dagmawi_Babi
+Saved message 32627 (media: False) for channel Dagmawi_Babi
+Saved message 32626 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32625 (media: True) for channel Dagmawi_Babi
+Saved message 32624 (media: False) for channel Dagmawi_Babi
+Saved message 32623 (media: False) for channel Dagmawi_Babi
+Saved message 32622 (media: False) for channel Dagmawi_Babi
+Saved message 32621 (media: True) for channel Dagmawi_Babi
+Saved message 32620 (media: True) for channel Dagmawi_Babi
+Saved message 32619 (media: False) for channel Dagmawi_Babi
+Saved message 32618 (media: False) for channel Dagmawi_Babi
+Saved message 32617 (media: True) for channel Dagmawi_Babi
+Saved message 32616 (media: True) for channel Dagmawi_Babi
+Saved message 32615 (media: True) for channel Dagmawi_Babi
+Saved message 32614 (media: True) for channel Dagmawi_Babi
+Saved message 32613 (media: True) for channel Dagmawi_Babi
+Saved message 32612 (media: True) for channel Dagmawi_Babi
+Saved message 32611 (media: True) for channel Dagmawi_Babi
+Saved message 32610 (media: True) for channel Dagmawi_Babi
+Saved message 32609 (media: True) for channel Dagmawi_Babi
+Saved message 32608 (media: True) for channel Dagmawi_Babi
+Saved message 32607 (media: True) for channel Dagmawi_Babi
+Saved message 32606 (media: True) for channel Dagmawi_Babi
+Saved message 32605 (media: False) for channel Dagmawi_Babi
+Saved message 32604 (media: False) for channel Dagmawi_Babi
+Saved message 32603 (media: False) for channel Dagmawi_Babi
+Saved message 32602 (media: False) for channel Dagmawi_Babi
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Saved message 32601 (media: True) for channel Dagmawi_Babi
+Saved message 32600 (media: False) for channel Dagmawi_Babi
+Saved message 32599 (media: False) for channel Dagmawi_Babi
+Saved message 32598 (media: False) for channel Dagmawi_Babi
+Saved message 32597 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32596 (media: True) for channel Dagmawi_Babi
+Saved message 32595 (media: False) for channel Dagmawi_Babi
+Saved message 32594 (media: False) for channel Dagmawi_Babi
+Saved message 32593 (media: False) for channel Dagmawi_Babi
+Saved message 32592 (media: False) for channel Dagmawi_Babi
+Saved message 32591 (media: False) for channel Dagmawi_Babi
+Saved message 32590 (media: False) for channel Dagmawi_Babi
+Saved message 32589 (media: False) for channel Dagmawi_Babi
+Saved message 32588 (media: False) for channel Dagmawi_Babi
+Saved message 32587 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32586 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32585 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32584 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Received new message in LaptopLaivstyle: 9105
+Saved message 9105 (media: False) for channel LaptopLaivstyle
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32583 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32582 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32581 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32580 (media: True) for channel Dagmawi_Babi
+Saved message 32579 (media: True) for channel Dagmawi_Babi
+Saved message 32578 (media: True) for channel Dagmawi_Babi
+Saved message 32577 (media: False) for channel Dagmawi_Babi
+Saved message 32576 (media: True) for channel Dagmawi_Babi
+Saved message 32575 (media: False) for channel Dagmawi_Babi
+Saved message 32574 (media: False) for channel Dagmawi_Babi
+Saved message 32573 (media: True) for channel Dagmawi_Babi
+Saved message 32572 (media: True) for channel Dagmawi_Babi
+Saved message 32571 (media: True) for channel Dagmawi_Babi
+Saved message 32570 (media: False) for channel Dagmawi_Babi
+Saved message 32569 (media: True) for channel Dagmawi_Babi
+Saved message 32568 (media: False) for channel Dagmawi_Babi
+Saved message 32567 (media: False) for channel Dagmawi_Babi
+Saved message 32566 (media: False) for channel Dagmawi_Babi
+Saved message 32565 (media: False) for channel Dagmawi_Babi
+Saved message 32564 (media: False) for channel Dagmawi_Babi
+Saved message 32563 (media: False) for channel Dagmawi_Babi
+Saved message 32562 (media: False) for channel Dagmawi_Babi
+Saved message 32561 (media: False) for channel Dagmawi_Babi
+Saved message 32560 (media: False) for channel Dagmawi_Babi
+Saved message 32559 (media: False) for channel Dagmawi_Babi
+Saved message 32558 (media: True) for channel Dagmawi_Babi
+Saved message 32557 (media: True) for channel Dagmawi_Babi
+Saved message 32556 (media: True) for channel Dagmawi_Babi
+Saved message 32555 (media: True) for channel Dagmawi_Babi
+Saved message 32554 (media: False) for channel Dagmawi_Babi
+Saved message 32553 (media: False) for channel Dagmawi_Babi
+Saved message 32552 (media: False) for channel Dagmawi_Babi
+Saved message 32551 (media: True) for channel Dagmawi_Babi
+Saved message 32550 (media: True) for channel Dagmawi_Babi
+Saved message 32549 (media: False) for channel Dagmawi_Babi
+Saved message 32548 (media: False) for channel Dagmawi_Babi
+Saved message 32547 (media: True) for channel Dagmawi_Babi
+Saved message 32546 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 32545 (media: False) for channel Dagmawi_Babi
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32544 (media: True) for channel Dagmawi_Babi
+Saved message 32543 (media: False) for channel Dagmawi_Babi
+Saved message 32542 (media: False) for channel Dagmawi_Babi
+Saved message 32541 (media: False) for channel Dagmawi_Babi
+Saved message 32540 (media: False) for channel Dagmawi_Babi
+Saved message 32539 (media: True) for channel Dagmawi_Babi
+Saved message 32538 (media: False) for channel Dagmawi_Babi
+Saved message 32536 (media: True) for channel Dagmawi_Babi
+Saved message 32535 (media: True) for channel Dagmawi_Babi
+Saved message 32534 (media: False) for channel Dagmawi_Babi
+Saved message 32533 (media: True) for channel Dagmawi_Babi
+Saved message 32532 (media: True) for channel Dagmawi_Babi
+Saved message 32531 (media: True) for channel Dagmawi_Babi
+Saved message 32530 (media: True) for channel Dagmawi_Babi
+Saved message 32529 (media: False) for channel Dagmawi_Babi
+Saved message 32528 (media: True) for channel Dagmawi_Babi
+Saved message 32526 (media: True) for channel Dagmawi_Babi
+Saved message 32525 (media: True) for channel Dagmawi_Babi
+Saved message 32524 (media: False) for channel Dagmawi_Babi
+Saved message 32523 (media: True) for channel Dagmawi_Babi
+Saved message 32522 (media: False) for channel Dagmawi_Babi
+Saved message 32521 (media: True) for channel Dagmawi_Babi
+Saved message 32520 (media: True) for channel Dagmawi_Babi
+Saved message 32519 (media: True) for channel Dagmawi_Babi
+Saved message 32515 (media: True) for channel Dagmawi_Babi
+Saved message 32514 (media: True) for channel Dagmawi_Babi
+Saved message 32513 (media: True) for channel Dagmawi_Babi
+Saved message 32512 (media: True) for channel Dagmawi_Babi
+Saved message 32511 (media: True) for channel Dagmawi_Babi
+Saved message 32510 (media: False) for channel Dagmawi_Babi
+Saved message 32509 (media: False) for channel Dagmawi_Babi
+Saved message 32508 (media: True) for channel Dagmawi_Babi
+Saved message 32506 (media: False) for channel Dagmawi_Babi
+Saved message 32505 (media: True) for channel Dagmawi_Babi
+Saved message 32504 (media: False) for channel Dagmawi_Babi
+Saved message 32503 (media: False) for channel Dagmawi_Babi
+Saved message 32502 (media: True) for channel Dagmawi_Babi
+Saved message 32501 (media: True) for channel Dagmawi_Babi
+Saved message 32500 (media: True) for channel Dagmawi_Babi
+Saved message 32499 (media: True) for channel Dagmawi_Babi
+Saved message 32498 (media: True) for channel Dagmawi_Babi
+Saved message 32497 (media: True) for channel Dagmawi_Babi
+Saved message 32496 (media: True) for channel Dagmawi_Babi
+Saved message 32495 (media: True) for channel Dagmawi_Babi
+Saved message 32494 (media: False) for channel Dagmawi_Babi
+Saved message 32493 (media: False) for channel Dagmawi_Babi
+Saved message 32492 (media: False) for channel Dagmawi_Babi
+Saved message 32491 (media: False) for channel Dagmawi_Babi
+Saved message 32490 (media: False) for channel Dagmawi_Babi
+Saved message 32489 (media: False) for channel Dagmawi_Babi
+Saved message 32488 (media: False) for channel Dagmawi_Babi
+Saved message 32487 (media: False) for channel Dagmawi_Babi
+Saved message 32486 (media: True) for channel Dagmawi_Babi
+Saved message 32485 (media: False) for channel Dagmawi_Babi
+Saved message 32484 (media: True) for channel Dagmawi_Babi
+Saved message 32483 (media: True) for channel Dagmawi_Babi
+Saved message 32482 (media: False) for channel Dagmawi_Babi
+Saved message 32481 (media: True) for channel Dagmawi_Babi
+Saved message 32480 (media: False) for channel Dagmawi_Babi
+Saved message 32479 (media: True) for channel Dagmawi_Babi
+Saved message 32478 (media: False) for channel Dagmawi_Babi
+Saved message 32477 (media: False) for channel Dagmawi_Babi
+Saved message 32476 (media: True) for channel Dagmawi_Babi
+Saved message 32475 (media: True) for channel Dagmawi_Babi
+Saved message 32474 (media: True) for channel Dagmawi_Babi
+Saved message 32470 (media: True) for channel Dagmawi_Babi
+Saved message 32469 (media: True) for channel Dagmawi_Babi
+Saved message 32468 (media: True) for channel Dagmawi_Babi
+Saved message 32467 (media: True) for channel Dagmawi_Babi
+Saved message 32466 (media: True) for channel Dagmawi_Babi
+Saved message 32465 (media: True) for channel Dagmawi_Babi
+Saved message 32464 (media: True) for channel Dagmawi_Babi
+Saved message 32462 (media: False) for channel Dagmawi_Babi
+Saved message 32460 (media: False) for channel Dagmawi_Babi
+Saved message 32459 (media: True) for channel Dagmawi_Babi
+Saved message 32458 (media: True) for channel Dagmawi_Babi
+Saved message 32457 (media: True) for channel Dagmawi_Babi
+Saved message 32456 (media: True) for channel Dagmawi_Babi
+Saved message 32455 (media: True) for channel Dagmawi_Babi
+Saved message 32454 (media: True) for channel Dagmawi_Babi
+Saved message 32453 (media: True) for channel Dagmawi_Babi
+Saved message 32452 (media: True) for channel Dagmawi_Babi
+Saved message 32451 (media: True) for channel Dagmawi_Babi
+Saved message 32450 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 32449 (media: True) for channel Dagmawi_Babi
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32448 (media: True) for channel Dagmawi_Babi
+Saved message 32447 (media: True) for channel Dagmawi_Babi
+Saved message 32446 (media: False) for channel Dagmawi_Babi
+Saved message 32445 (media: True) for channel Dagmawi_Babi
+Saved message 32444 (media: True) for channel Dagmawi_Babi
+Saved message 32443 (media: True) for channel Dagmawi_Babi
+Saved message 32442 (media: True) for channel Dagmawi_Babi
+Saved message 32441 (media: True) for channel Dagmawi_Babi
+Saved message 32440 (media: True) for channel Dagmawi_Babi
+Saved message 32439 (media: True) for channel Dagmawi_Babi
+Saved message 32438 (media: False) for channel Dagmawi_Babi
+Saved message 32437 (media: False) for channel Dagmawi_Babi
+Saved message 32436 (media: False) for channel Dagmawi_Babi
+Saved message 32435 (media: True) for channel Dagmawi_Babi
+Saved message 32434 (media: False) for channel Dagmawi_Babi
+Saved message 32433 (media: True) for channel Dagmawi_Babi
+Saved message 32432 (media: False) for channel Dagmawi_Babi
+Saved message 32431 (media: True) for channel Dagmawi_Babi
+Saved message 32430 (media: True) for channel Dagmawi_Babi
+Saved message 32429 (media: False) for channel Dagmawi_Babi
+Saved message 32428 (media: True) for channel Dagmawi_Babi
+Saved message 32427 (media: False) for channel Dagmawi_Babi
+Saved message 32426 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Saved message 32425 (media: True) for channel Dagmawi_Babi
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32424 (media: True) for channel Dagmawi_Babi
+Saved message 32423 (media: True) for channel Dagmawi_Babi
+Saved message 32422 (media: True) for channel Dagmawi_Babi
+Saved message 32421 (media: True) for channel Dagmawi_Babi
+Saved message 32420 (media: True) for channel Dagmawi_Babi
+Saved message 32419 (media: True) for channel Dagmawi_Babi
+Saved message 32418 (media: True) for channel Dagmawi_Babi
+Saved message 32417 (media: True) for channel Dagmawi_Babi
+Saved message 32416 (media: True) for channel Dagmawi_Babi
+Saved message 32415 (media: True) for channel Dagmawi_Babi
+Saved message 32414 (media: True) for channel Dagmawi_Babi
+Saved message 32413 (media: True) for channel Dagmawi_Babi
+Saved message 32412 (media: True) for channel Dagmawi_Babi
+Saved message 32411 (media: True) for channel Dagmawi_Babi
+Saved message 32410 (media: True) for channel Dagmawi_Babi
+Saved message 32409 (media: True) for channel Dagmawi_Babi
+Saved message 32408 (media: True) for channel Dagmawi_Babi
+Saved message 32407 (media: False) for channel Dagmawi_Babi
+Saved message 32406 (media: False) for channel Dagmawi_Babi
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Saved message 32405 (media: False) for channel Dagmawi_Babi
+Saved message 32404 (media: False) for channel Dagmawi_Babi
+Saved message 32403 (media: False) for channel Dagmawi_Babi
+Saved message 32402 (media: False) for channel Dagmawi_Babi
+Saved message 32401 (media: False) for channel Dagmawi_Babi
+Saved message 32400 (media: False) for channel Dagmawi_Babi
+Saved message 32399 (media: False) for channel Dagmawi_Babi
+Saved message 32398 (media: False) for channel Dagmawi_Babi
+Saved message 32397 (media: True) for channel Dagmawi_Babi
+Saved message 32396 (media: True) for channel Dagmawi_Babi
+Saved message 32395 (media: True) for channel Dagmawi_Babi
+Saved message 32394 (media: True) for channel Dagmawi_Babi
+Saved message 32393 (media: True) for channel Dagmawi_Babi
+Saved message 32392 (media: True) for channel Dagmawi_Babi
+Saved message 32391 (media: True) for channel Dagmawi_Babi
+Saved message 32390 (media: True) for channel Dagmawi_Babi
+Saved message 32389 (media: True) for channel Dagmawi_Babi
+Saved message 32388 (media: True) for channel Dagmawi_Babi
+Saved message 32387 (media: True) for channel Dagmawi_Babi
+Saved message 32386 (media: True) for channel Dagmawi_Babi
+Saved message 32385 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32384 (media: True) for channel Dagmawi_Babi
+Saved message 32383 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32382 (media: True) for channel Dagmawi_Babi
+Saved message 32381 (media: False) for channel Dagmawi_Babi
+Saved message 32380 (media: False) for channel Dagmawi_Babi
+Saved message 32379 (media: False) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32378 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32377 (media: True) for channel Dagmawi_Babi
+Saved message 32376 (media: True) for channel Dagmawi_Babi
+Saved message 32375 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Received new message in zulu_tech: 3773
+Saved message 32374 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32373 (media: True) for channel Dagmawi_Babi
+Saved message 32372 (media: True) for channel Dagmawi_Babi
+Saved message 32371 (media: True) for channel Dagmawi_Babi
+Saved message 32368 (media: True) for channel Dagmawi_Babi
+Saved message 32367 (media: True) for channel Dagmawi_Babi
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Saved message 32366 (media: True) for channel Dagmawi_Babi
+Saved message 32365 (media: True) for channel Dagmawi_Babi
+Saved message 32364 (media: True) for channel Dagmawi_Babi
+Saved message 32363 (media: True) for channel Dagmawi_Babi
+Saved message 3773 (media: True) for channel zulu_tech
+New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
+Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
+Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
