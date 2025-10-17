@@ -1596,3 +1596,4 @@ Saved message 3773 (media: True) for channel zulu_tech
 New channels detected: {'ticvaethiopia'}. Attempting to add to real-time monitoring.
 Error resolving entity or adding channel ticvaethiopia to monitor: No user has "ticvaethiopia" as username
 Please ensure 'ticvaethiopia' is a public channel username (without '@') or a valid channel ID, and the Telegram client has access to it.
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
