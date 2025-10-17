@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+db.sqlite
+collector_session.session
+collector_session.session-journal
+media/
