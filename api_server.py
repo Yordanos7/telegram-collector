@@ -17,7 +17,13 @@ DB_URL = os.getenv("DB_URL", "sqlite:///./db.sqlite")
 MEDIA_DIR = os.getenv("MEDIA_DIR", "./media")
 CHANNELS_HISTORY_FILE = "channels_for_history.json"
 
-engine = create_engine(DB_URL, future=True)
+# For Render deployment, use a PostgreSQL database if available
+# Otherwise, fall back to SQLite for local development/testing
+if DB_URL.startswith("postgresql"):
+    engine = create_engine(DB_URL, pool_pre_ping=True, pool_recycle=3600, future=True)
+else:
+    engine = create_engine(DB_URL, future=True)
+
 metadata.create_all(engine)
 
 # Ensure channels history file exists
