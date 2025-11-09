@@ -41,6 +41,10 @@ if not os.path.exists(MEDIA_DIR):
     os.makedirs(MEDIA_DIR, exist_ok=True)
 app.mount("/media", StaticFiles(directory=MEDIA_DIR), name="media")
 
+@app.get("/")
+async def read_root():
+    return FileResponse("web/index.html")
+
 class ConnectionManager:
     def __init__(self):
         self.active_connections: dict[str, List[WebSocket]] = {}

@@ -102,7 +102,7 @@
         };
 
         try {
-          const resp = await fetch(`/api/posts/${channel}`);
+          const resp = await fetch(`/api/posts/${channel}?limit=30`);
           if (!resp.ok) {
             postsDiv.innerHTML = "Error loading posts: " + resp.status;
             return;
